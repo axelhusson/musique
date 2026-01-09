@@ -1,48 +1,58 @@
 # Récapitulatif : Les Cadences en Musique de Film
 
-https://www.youtube.com/watch?v=LzobDiAnedQ
+Ce document résume les concepts clés de la vidéo de la chaîne **Le Studio de Chêne** sur l'utilisation des cadences pour créer de la tension et de l'émotion.
 
-Cette vidéo explore la création et l'utilisation de différentes cadences dans la musique de film pour susciter l'émotion et la tension.
+---
 
-## Types de Cadences Abordées :
+## 1. Les Bases
+Les cadences sont les "lois de la gravité" en musique. Elles définissent comment un accord est attiré vers un autre pour créer une résolution ou un suspense.
 
-*   **Cadence Parfaite :** Conclusion forte et résolutive (V-I).
-*   **Cadence Complète :** Enchaînement plus élaboré (ex: I-IV-V-I).
-*   **Cadence "2-5-1" :** Un classique du jazz, très utilisé pour des progressions fluides.
-*   **Cadence avec Dominante Septième :** Ajoute une tension supplémentaire avant la résolution.
-*   **Cadence avec Dominante Diminuée :** Crée une tension encore plus forte et dramatique.
-*   **Cadence Plagale :** Apporte une sonorité plus douce, souvent appelée "Amen" (IV-I).
-*   **Cadence Plagale Mineure :** Variante plus mélancolique de la cadence plagale.
-*   **Cadence Rompue (ou Évitée) :** Crée la surprise en évitant la résolution attendue (V-vi).
-*   **Cadence Brisée :** Interruption ou modification de la cadence pour un effet inattendu.
+* **Degré I (Tonique) :** Le centre de gravité, la "maison" [00:02:44].
+* **Degré V (Dominante) :** L'accord de tension maximale qui veut rejoindre la tonique [00:03:02].
 
-La vidéo propose des exemples composés pour chaque type de cadence, adaptés aussi bien aux débutants qu'aux musiciens plus expérimentés.
+---
 
-## Exemples en Do Majeur
+## 2. Les Cadences Classiques
+*Exemples basés sur la gamme de Do Majeur.*
 
-Voici des exemples pour certaines de ces cadences dans la tonalité de Do Majeur.
+| Type de Cadence | Progression | Exemple d'Accords | Timestamps |
+| :--- | :--- | :--- | :--- |
+| **Parfaite** | `V → I` | Sol → Do | [00:02:06] |
+| **7ème Dominante** | `V7 → I` | Sol7 → Do | [00:03:44] |
+| **Plagale** | `IV → I` | Fa → Do | [00:04:01] |
+| **Complète** | `IV → V → I` | Fa → Sol → Do | [00:05:02] |
+| **2-5-1** | `II → V → I` | Rém → Sol → Do | [00:05:18] |
 
-*   **Cadence Parfaite (V - I) :**
-    *   **Accord V :** Sol Majeur (G) - Notes : Sol, Si, Ré
-    *   **Accord I :** Do Majeur (C) - Notes : Do, Mi, Sol
+---
 
-*   **Cadence Plagale (IV - I) :**
-    *   **Accord IV :** Fa Majeur (F) - Notes : Fa, La, Do
-    *   **Accord I :** Do Majeur (C) - Notes : Do, Mi, Sol
+## 3. Cadences Épiques et Cinématographiques
+Ces cadences utilisent des notes hors de la gamme (emprunts) pour enrichir la texture sonore.
 
-*   **Cadence Rompue (V - vi) :**
-    *   **Accord V :** Sol Majeur (G) - Notes : Sol, Si, Ré
-    *   **Accord vi :** La mineur (Am) - Notes : La, Do, Mi
+### Cadence Plagale Mineure (`IVm → I`)
+* **Exemple :** Fa mineur → Do Majeur [00:06:00].
+* **Détail :** L'utilisation du Lab (note hors gamme de Do Maj) apporte une touche épique et mélancolique [00:06:14].
 
-*   **Cadence "2-5-1" (ii - V - I) :**
-    *   **Accord ii :** Ré mineur (Dm) - Notes : Ré, Fa, La
-    *   **Accord V :** Sol Majeur (G) - Notes : Sol, Si, Ré
-    *   **Accord I :** Do Majeur (C) - Notes : Do, Mi, Sol
+### Cadence de Dominante Diminuée (`VII° → I`)
+* **Exemple :** Si diminué (Si-Ré-Fa-Lab) → Do Majeur [00:06:45].
+* **Détail :** Utilisation de l'accord de Triton pour une tension maximale [00:06:49].
 
-*   **Cadence avec Dominante Septième (V7 - I) :**
-    *   **Accord V7 :** Sol Septième (G7) - Notes : Sol, Si, Ré, Fa
-    *   **Accord I :** Do Majeur (C) - Notes : Do, Mi, Sol
+### Cadence Déceptive (`V → VI`)
+* **Exemple :** Sol → La mineur [00:08:52].
+* **Détail :** On ne résout pas sur le I, mais sur son relatif mineur (le VI), pour une conclusion plus sombre [00:08:58].
 
-*   **Cadence Plagale Mineure (iv - I) :**
-    *   **Accord iv :** Fa mineur (Fm) - Notes : Fa, Lab, Do
-    *   **Accord I :** Do Majeur (C) - Notes : Do, Mi, Sol
+---
+
+## 4. Techniques de Tension et Suspense
+
+* **La Cadence Rompue :** S'arrêter sur le IV ou le V sans résoudre [00:07:43]. Très utilisé dans les trailers pour créer de l'attente [00:07:54].
+* **La Suspension (`sus4`) :** Faire traîner une note de l'accord IV dans l'accord V avant de résoudre [00:04:33].
+* **L'Anticipation Maximisée :** Enchaîner plusieurs cadences rompues à la suite pour retarder la fin [00:08:09].
+
+---
+
+## 5. Le Cas du Mode Mineur
+Pour avoir une cadence efficace en mineur, on transforme le degré V (normalement mineur) en **accord Majeur** pour créer une "sensible" [00:10:35].
+* **Exemple :** Mi Majeur → La mineur [00:11:01].
+
+---
+*Source : [Le Studio de Chêne - Les CADENCES en musique de FILM](https://www.youtube.com/watch?v=LzobDiAnedQ)*
