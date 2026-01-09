@@ -1,5 +1,7 @@
 # Récapitulatif : Les Cadences en Musique de Film
 
+https://www.youtube.com/watch?v=LzobDiAnedQ
+
 Cette vidéo explore la création et l'utilisation de différentes cadences dans la musique de film pour susciter l'émotion et la tension.
 
 ## Types de Cadences Abordées :
